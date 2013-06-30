@@ -1,0 +1,9 @@
+C:\Users\Ghol3\Desktop\C#\PresentationClient\PresentationClient\bin\Debug\PresentationClient.exe
+C:\Users\Ghol3\Desktop\C#\PresentationClient\PresentationClient\bin\Debug\PresentationClient.pdb
+C:\Users\Ghol3\Desktop\C#\PresentationClient\PresentationClient\obj\Debug\PresentationClient.csprojResolveAssemblyReference.cache
+C:\Users\Ghol3\Desktop\C#\PresentationClient\PresentationClient\obj\Debug\PresentationClient.Form1.resources
+C:\Users\Ghol3\Desktop\C#\PresentationClient\PresentationClient\obj\Debug\PresentationClient.Properties.Resources.resources
+C:\Users\Ghol3\Desktop\C#\PresentationClient\PresentationClient\obj\Debug\PresentationClient.csproj.GenerateResource.Cache
+C:\Users\Ghol3\Desktop\C#\PresentationClient\PresentationClient\obj\Debug\PresentationClient.exe
+C:\Users\Ghol3\Desktop\C#\PresentationClient\PresentationClient\obj\Debug\PresentationClient.pdb
+C:\Users\Ghol3\Desktop\C#\PresentationClient\PresentationClient\bin\Debug\MySql.Data.dll
